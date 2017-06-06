@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SpaceShooter/Scenes/Evolving.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,2868 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Null
+NullGfxnitialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologieesice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Platform assembly: CnitializeIeniinietlvazri iennei ge.nv. Pers(8o8:n5: 5.5..f1 
+I81id0a(l8zd0cd7)9
+gcine
+ veFsgc :ng 5f1D1 i 8u lN7
+Flulc)f
+xDevfreD
+g
+ Nu VlrGixDneviN e  N
+ luL 
+1.0 lll1: D evU
+Lce c
+e1n  reer iu
+n l   URenderer: NuevlL Device
+e 0 
+   0]Vendor:   Uni
+    Rihndero Technologies
+evice
+    Vendor:   Unity Technologies
+logies
+Begin MonoManager ReloadAssembly
+:\Users\Gabrrm assembly: \ProjetoIIA_3\Tel\Documeatsa\MaojetoIIA_ty\Eng\IIA3_D
+ltl\Manhged messtyge is harml (th
+s messaLo as harmless)
+ding CL\Useis\Gnbriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Pll atform assemhly: C:\Users\Gabrild Docmamin
+s\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+ C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dPl atform assembly: C:\Umlers\Ga
+briel\Dodumne C:\Useojs\Gabriel\Do3\uIent3_Daroj\MtoIag_3\TsP3\IIA-CSharp.dll (ed\Unis mesinageUIis harmnto Uni
+ty ChLld Ding in
+Begin MonoManager ReloadAssembly
+C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Doclatform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\PP3lIatform asManagey: C:\Usergine.UI.dll (this mesProjet oisA_3\TPe3s)
+Lo\dIng 3C:\Users\GabriUnityEngine.Networking.dll (this mesData\Managed\Unity
+EngineLUI.dll into Uers\Gabriel\Docain
+nts\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\PIA3_Doama\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmluss)
+nLoading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+- Completed reload, in  0.059 seconds
+ts\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.083 seconds
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message iompletele rel
+oad, in  0.039 seconds
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\ManPlatform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll into UPilyatform assembly: C:\Users\Gabriel\Documents\ProjetoIIAa3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.dll into Unity Child Domain
+ Child Domain
+\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documentslatfform assembly: C:\Uses\Gabrieel\ocummntnss\ProjetoIIA_3\TP3\IIA\_PatojetoIagIdA_3\TP3\IIA3_Data\Managed\Assembly-CSharp.dll (tAissemessa-e iC haharpss)
+l (thisLmessagg Cis haers\Gabri
+el\DocLoadingProjetoIIs\Gabr3\eI\DP3_DaocuManaged\Asetembly_3\Tharp.dll into 3niIIA3_Data\Manain
+d\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Docum asseebny: C:\Users\GabrieltDocuments\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+UnloadTime: 1.243618 ms
+- Completed reload, in  0.068 seconds
+rojetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+PlatforL assembly:\:sers\Gsebri\Gl\DrcuementcPPmejeetooIjeA3\\PAP\3\TA33\DaIta\Mataaed\Unagtyd\ngi3_Dat.\Shnrgt.\dll (this messagUnetysEs 
+hne.ULoarding to Unsmless)l
+d DoLoeisn
+ading \Documents\PrrjetoIIA_3\TP3s\Pro_jettoIanaged\UnityEngine.UI.dll into UniIy Child DoA_a3\Tin
+P:\Users_DGatariManael\Documents\PSharptoIIA_3\To UnIIty Child Pl3atin
+_m assembly: C:\Users\Gabriel\Documents\ProDeta\Managed\UnitAE3giDe.taetworkieng.ndPlaEftohis message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjemtoIIeAbl3: TC:\UIA3rs\Gabriel\Dod\UnintyE\ProneetNeIIA_3\TP3\IIn3_Data\Mana eU\Unit Child DomI.n
+ll (this message is harmless)
+Loading C:\Users\GaPlial\Docu assembly: C:oIIA_3s\GP3brieAl\Daotaumentnaged\UnityEn_3\TP3\IIA3l into\MUaity ed\UnityEngine
+.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\PrPjltotform asP3\IIA3:DaCa\Masers\GabnityEngine.Pla\ProjTesoIIA_3\TP3\I iAntoata\Managed\UniomyEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngen..Networking.dll into Unity Child Domain
+PlatPorm aorm asmbly: C:\UseUsers\Grsriabriel\Duments\ProjetoIIA_3\nP
+\ItwA3_Datg.\Mana(thd\Assemblge-Cis harmless(
+this Loading C:\Users\ss)ri
+el\DLouments\ProjetoIIA_3\TP3\IIcum_enta\Managed\UnityEngine.Networking.dll into Unity Child Domain
+jetoIIA_3\TP3\IIA3_Data\Panaagerm assembly: C:\Users\Gabriel\Document D\omumoijet
+oIIAoje\TP3\IIA3_Da\IIA3_Data\Managed\UnityEngindeTestsRunner.dll (this message iP hatrmless)
+sembly:oC:ing rC:\Ubriel\GabrielntDocuments\IP_3o\etoIIA_A3_DP3ta\Managet\UnityEngine.UI.dlgi.Pl.PlaymodeTestsRunner.ds)l 
+intoLoading C:\Users\Gn
+riel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.108 -ec Cos
+mpleted reload, in  0.117 seconds
+aymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.123 seconds
+- Completed reload, in  0.086 seconds
+UnloadTime: 1.038771 ms
+UnloadTime: 7.962920 ms
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.208123 ms
+teste+1+.txt
+teste+1+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 1.184174 ms
+teste+3+.txt
+teste+3+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+teste+6+.txt
+teste+6+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+teste+2+.txt
+Platftrm assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+este+2+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 1.185029 ms
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.308621 ms
+teste+5+.txt
+teste+5+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gabriel\Documents\ProjetoIIA_3\TP3\IIA3_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 1.161508 ms
+teste+4+.txt
+teste+4+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 1.288522 ms
+UnloadTime: 1.962504 ms
+Setting up 1 worker threads for Enlighten.
+teste+7+.txt
+teste+7+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+teste+8+.txt
+teste+8+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+Setting up 1 worker threads for Enlighten.
+teste+9+.txt
+teste+9+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+teste+10+.txt
+teste+10+.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+Setting up 1 worker threads for Enlighten.
+Setting up 1 worker threads for Enlighten.
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f6c -> priority: 1 
+  Thread -> id: 2224 -> priority: 1 
+  Thread -> id: 1624 -> priority: 1 
+  Thread -> id: 17bc -> priority: 1 
+  Thread -> id: 2034 -> priority: 1 
+  Thread -> id: de8 -> priority: 1 
+  Thread -> id:T read ->> riorit1218 ->
+ priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b88 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 20f0 -> priority: 1 
+generation: 0	best: 156	worst: -10	mean: 37.42	deviation: 31.79251
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 35.78	deviation: 30.66613
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 35.58	deviation: 30.49399
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 35.98	deviation: 30.60163
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 35.58	deviation: 30.49399
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 35.58	deviation: 30.49399
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 37.44	deviation: 31.81268
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 35.98	deviation: 30.60163
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 37.24	deviation: 31.65727
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 0	best: 156	worst: -10	mean: 36.18	deviation: 30.39124
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 118	worst: -6	mean: 36.44	deviation: 34.34132
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 122	worst: -3	mean: 42.22	deviation: 34.72825
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 145	worst: -13	mean: 41.94	deviation: 44.43755
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 141	worst: -2	mean: 48.52	deviation: 37.58151
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 176	worst: -13	mean: 54.16	deviation: 47.98806
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 174	worst: -2	mean: 50.84	deviation: 42.47039
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 161	worst: -19	mean: 50.4	deviation: 42.47729
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 143	worst: -2	mean: 48.28	deviation: 39.98652
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 1	best: 155	worst: -3	mean: 46.52	deviation: 39.55869
+
+ 
+(Filename: C:/buildslave/unity/build/artifgcenerationted/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+99
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 138	worst: -9	mean: 51.42	deviation: 42.60145
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 173	worst: -2	mean: 78.16	deviation: 37.93645
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 168	worst: -11	mean: 72.52	deviation: 44.11904
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 176	worst: -11	mean: 72.28	deviation: 43.42582
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 152	worst: -2	mean: 75.66	deviation: 38.67744
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 149	worst: -3	mean: 63.82	deviation: 43.16002
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 174	worst: -2	mean: 84.56	deviation: 45.57375
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 155	worst: 8	mean: 73.4	deviation: 38.35414
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 161	worst: -12	mean: 50.16	deviation: 43.94331
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 2	best: 159	worst: -5	mean: 66.12	deviation: 44.49568
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 137	worst: -4	mean: 52.48	deviation: 40.0481
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 186	worst: 6	mean: 75.24	deviation: 44.29879
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 185	worst: -4	mean: 59.46	deviation: 47.51809
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 168	worst: -1	mean: 78.04	deviation: 44.42025
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 158	worst: -2	mean: 46.42	deviation: 40.20253
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 161	worst: -2	mean: 65.2	deviation: 42.72704
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 168	worst: 0	mean: 69.7	deviation: 40.8354
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 155	worst: -2	mean: 73.38	deviation: 41.1747
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 173	worst: -12	mean: 75.1	deviation: 44.19876
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 3	best: 149	worst: -3	mean: 65.64	deviation: 37.49654
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 153	worst: -11	mean: 64.54	deviation: 42.07195
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 186	worst: 1	mean: 66.8	deviation: 49.45826
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 167	worst: -12	mean: 50.68	deviation: 45.52908
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 185	worst: 0	mean: 79.22	deviation: 52.07429
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 175	worst: -7	mean: 80.62	deviation: 45.51083
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 167	worst: 9	mean: 80.36	deviation: 30.39787
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 171	worst: 3	mean: 63.9	deviation: 45.23506
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 173	worst: -5	mean: 87.7	deviation: 48.5202
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 189	worst: 15	mean: 72.44	deviation: 39.20416
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 4	best: 154	worst: 6	mean: 83.64	deviation: 44.11157
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 176	worst: -2	mean: 74.62	deviation: 45.14594
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 167	worst: -2	mean: 64.04	deviation: 48.51513
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 173	worst: 0	mean: 85	deviation: 43.79726
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 185	worst: -1	mean: 85.36	deviation: 58.06815
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 167	worst: 3	mean: 66.1	deviation: 38.20956
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 175	worst: -15	mean: 78.5	deviation: 48.47154
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 171	worst: 18	mean: 70.78	deviation: 47.94551
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 189	worst: -2	mean: 73	deviation: 49.90551
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 174	worst: -2	mean: 88.86	deviation: 45.72833
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 5	best: 178	worst: -1	mean: 82.34	deviation: 41.32148
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 188	worst: -3	mean: 76.52	deviation: 50.80482
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 167	worst: -5	mean: 66.1	deviation: 49.21188
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 173	worst: 9	mean: 86.9	deviation: 42.86969
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 185	worst: -2	mean: 84.14	deviation: 53.7457
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 168	worst: -2	mean: 77.82	deviation: 42.17046
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 175	worst: -7	mean: 77.32	deviation: 50.22169
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 171	worst: -14	mean: 70.62	deviation: 50.0731
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 189	worst: -2	mean: 90	deviation: 50.28558
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 173	worst: -16	mean: 82.88	deviation: 52.43496
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 6	best: 178	worst: 4	mean: 70.92	deviation: 41.23244
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 186	worst: 1	mean: 95.64	deviation: 48.50805
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 167	worst: -1	mean: 54.22	deviation: 48.11914
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 203	worst: -9	mean: 80.58	deviation: 52.18164
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 185	worst: 2	mean: 89.44	deviation: 49.04168
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 168	worst: -1	mean: 74.54	deviation: 39.87892
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 175	worst: -1	mean: 78.34	deviation: 50.84471
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 171	worst: -3	mean: 73.74	deviation: 53.36583
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 189	worst: -15	mean: 79.5	deviation: 52.15908
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 174	worst: -6	mean: 85.92	deviation: 49.56282
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 7	best: 178	worst: -1	mean: 76.14	deviation: 51.70184
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 188	worst: -6	mean: 88.18	deviation: 48.27202
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 167	worst: 0	mean: 66.78	deviation: 51.34834
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 189	worst: -2	mean: 79.48	deviation: 56.61775
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 203	worst: -5	mean: 86.32	deviation: 51.24781
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 168	worst: -4	mean: 68.62	deviation: 44.79816
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 178	worst: -5	mean: 75.9	deviation: 54.22001
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 189	worst: 6	mean: 75.3	deviation: 48.75255
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 175	worst: -11	mean: 84.16	deviation: 46.68077
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 174	worst: -14	mean: 75.22	deviation: 58.75825
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 8	best: 178	worst: -10	mean: 63.9	deviation: 48.271
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 193	worst: 7	mean: 96.72	deviation: 49.88267
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 167	worst: -1	mean: 65	deviation: 49.08319
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 203	worst: 1	mean: 88.24	deviation: 51.82608
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 178	worst: -10	mean: 67.7	deviation: 55.52018
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 189	worst: 7	mean: 79.9	deviation: 51.19384
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 168	worst: 6	mean: 80.26	deviation: 44.07712
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 189	worst: -5	mean: 87.18	deviation: 57.15617
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 175	worst: 5	mean: 83.18	deviation: 43.24752
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 178	worst: -2	mean: 66.06	deviation: 48.79238
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 9	best: 174	worst: -14	mean: 89.26	deviation: 51.79066
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 193	worst: -3	mean: 81.06	deviation: 51.91933
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 171	worst: -2	mean: 72.08	deviation: 50.46101
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 199	worst: -14	mean: 72.92	deviation: 52.53678
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 189	worst: 1	mean: 83.1	deviation: 50.7142
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 203	worst: 9	mean: 100.54	deviation: 48.37983
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 168	worst: -5	mean: 70.28	deviation: 44.30758
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 189	worst: -4	mean: 83.9	deviation: 52.95177
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 175	worst: 6	mean: 79.48	deviation: 46.20573
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 174	worst: -4	mean: 76.52	deviation: 56.02008
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 10	best: 178	worst: 0	mean: 66.16	deviation: 51.05932
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 188	worst: 7	mean: 65.24	deviation: 52.49898
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 171	worst: -6	mean: 62.8	deviation: 47.99625
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 168	worst: -14	mean: 69.84	deviation: 45.1067
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 178	worst: -11	mean: 83.14	deviation: 53.82379
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 186	worst: 5	mean: 82.98	deviation: 51.12435
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 186	worst: -11	mean: 84.56	deviation: 50.72008
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 203	worst: 6	mean: 103.34	deviation: 52.23241
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 175	worst: -16	mean: 77.92	deviation: 51.65611
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 174	worst: -15	mean: 72.34	deviation: 61.64888
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 11	best: 178	worst: -2	mean: 74.68	deviation: 44.82072
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 171	worst: -5	mean: 72.56	deviation: 45.9396
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 188	worst: 21	mean: 92.84	deviation: 48.37287
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 169	worst: 7	mean: 64.8	deviation: 44.49675
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 178	worst: -11	mean: 72.28	deviation: 53.80076
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 203	worst: -4	mean: 92.98	deviation: 53.03413
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 175	worst: -17	mean: 80.24	deviation: 49.74678
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 186	worst: -1	mean: 81.92	deviation: 49.06153
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 186	worst: -4	mean: 94.52	deviation: 48.09376
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 178	worst: -10	mean: 76.36	deviation: 53.41975
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 12	best: 174	worst: -12	mean: 78.68	deviation: 54.27096
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 172	worst: -1	mean: 77.78	deviation: 48.45174
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 188	worst: -2	mean: 74.6	deviation: 48.30155
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 169	worst: 10	mean: 76.32	deviation: 42.6279
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 178	worst: -12	mean: 72.7	deviation: 54.00565
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 176	worst: -15	mean: 78.24	deviation: 52.51231
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 186	worst: -3	mean: 84.98	deviation: 51.7971
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 203	worst: -6	mean: 104.18	deviation: 51.05906
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 189	worst: -7	mean: 108.86	deviation: 52.07649
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 178	worst: -2	mean: 63.46	deviation: 48.84392
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 13	best: 174	worst: -12	mean: 77.5	deviation: 56.24136
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 172	worst: 8	mean: 72.06	deviation: 47.77967
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 188	worst: 10	mean: 88.32	deviation: 50.15474
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 179	worst: -12	mean: 73.92	deviation: 52.21947
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 169	worst: -2	mean: 68.84	deviation: 48.50912
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 186	worst: -3	mean: 80.1	deviation: 54.32871
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 176	worst: -5	mean: 79.06	deviation: 47.17559
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 203	worst: -6	mean: 90.8	deviation: 52.76476
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 178	worst: -1	mean: 78.7	deviation: 47.31226
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 186	worst: 7	mean: 79.6	deviation: 50.42975
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 14	best: 175	worst: 2	mean: 87.1	deviation: 54.00158
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 188	worst: 7	mean: 75.68	deviation: 49.80419
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 172	worst: 7	mean: 77.74	deviation: 45.1893
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 178	worst: -12	mean: 71.62	deviation: 55.65281
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 169	worst: -10	mean: 63.06	deviation: 47.87417
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 186	worst: -2	mean: 80.16	deviation: 55.79762
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 187	worst: 8	mean: 88.62	deviation: 50.59482
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 203	worst: 15	mean: 94.98	deviation: 51.75731
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 178	worst: -4	mean: 75.94	deviation: 49.0638
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 186	worst: 9	mean: 95.58	deviation: 49.76709
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 15	best: 175	worst: -5	mean: 83.86	deviation: 53.56267
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 172	worst: -2	mean: 73.28	deviation: 47.14702
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 188	worst: 18	mean: 86.74	deviation: 45.88064
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 179	worst: -12	mean: 61.4	deviation: 58.37601
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 169	worst: 7	mean: 77.08	deviation: 43.88523
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 186	worst: -5	mean: 90.26	deviation: 55.73287
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 187	worst: 8	mean: 84.98	deviation: 51.69274
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 186	worst: 0	mean: 94.94	deviation: 45.45565
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 178	worst: -11	mean: 73.06	deviation: 51.26223
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 203	worst: 9	mean: 100.64	deviation: 48.02864
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 16	best: 174	worst: -4	mean: 71.82	deviation: 51.79023
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 183	worst: 7	mean: 84.78	deviation: 52.21467
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 188	worst: 3	mean: 92.64	deviation: 48.74044
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 179	worst: -7	mean: 69.2	deviation: 52.58745
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 169	worst: -9	mean: 72.08	deviation: 46.82728
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 186	worst: 6	mean: 75.7	deviation: 54.96918
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 187	worst: 8	mean: 90.68	deviation: 48.54583
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 189	worst: -5	mean: 90.14	deviation: 52.59088
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 178	worst: -9	mean: 75.84	deviation: 56.92709
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 203	worst: -1	mean: 92.96	deviation: 58.1608
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 17	best: 176	worst: -5	mean: 78.86	deviation: 59.20069
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 172	worst: -19	mean: 54.74	deviation: 55.10492
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 188	worst: 7	mean: 84.26	deviation: 51.17062
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 179	worst: -10	mean: 66.6	deviation: 53.14245
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 169	worst: 7	mean: 68.28	deviation: 45.83057
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 186	worst: -4	mean: 82.38	deviation: 48.56002
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 190	worst: 8	mean: 94.16	deviation: 49.37382
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 186	worst: 0	mean: 72.34	deviation: 53.07489
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 178	worst: -7	mean: 74.7	deviation: 54.62829
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 203	worst: -11	mean: 87.98	deviation: 55.41426
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 18	best: 176	worst: 0	mean: 80.94	deviation: 48.85056
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 171	worst: 4	mean: 83.58	deviation: 46.63608
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 186	worst: 9	mean: 85.1	deviation: 46.77402
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 179	worst: -9	mean: 79.88	deviation: 53.79875
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 173	worst: 8	mean: 67.94	deviation: 46.80958
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 186	worst: -5	mean: 72.16	deviation: 54.66859
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 190	worst: -1	mean: 82.82	deviation: 51.86085
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 190	worst: 9	mean: 77.06	deviation: 49.38519
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 186	worst: 0	mean: 91.68	deviation: 50.79663
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 176	worst: 1	mean: 76.14	deviation: 51.26794
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 19	best: 203	worst: 5	mean: 89.58	deviation: 54.72663
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 171	worst: 6	mean: 62.68	deviation: 49.31915
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 178	worst: -11	mean: 69.32	deviation: 49.96136
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 188	worst: -2	mean: 86.52	deviation: 50.53286
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 172	worst: 1	mean: 64.24	deviation: 48.4023
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 186	worst: 5	mean: 86.32	deviation: 53.12304
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 190	worst: 5	mean: 93.14	deviation: 51.07642
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 190	worst: -1	mean: 83.42	deviation: 51.40548
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 186	worst: 2	mean: 98.24	deviation: 48.70875
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 172	worst: -3	mean: 76.7	deviation: 50.13313
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 184	worst: -7	mean: 80.5	deviation: 52.00587
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 20	best: 203	worst: -7	mean: 94.82	deviation: 55.44645
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 178	worst: -9	mean: 72.9	deviation: 51.87957
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 188	worst: 0	mean: 95.58	deviation: 51.69685
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 173	worst: -11	mean: 68.7	deviation: 52.63962
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 186	worst: -3	mean: 85.86	deviation: 54.78942
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 190	worst: 0	mean: 89.32	deviation: 55.39113
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 190	worst: -4	mean: 81.58	deviation: 52.52013
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 186	worst: 8	mean: 91.46	deviation: 48.34841
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 197	worst: 8	mean: 77.66	deviation: 49.27418
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 203	worst: 3	mean: 86.38	deviation: 53.16536
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 21	best: 184	worst: -1	mean: 90.02	deviation: 52.12543
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 188	worst: -2	mean: 71.26	deviation: 50.63351
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 179	worst: -8	mean: 75.56	deviation: 57.40563
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 172	worst: 11	mean: 73.84	deviation: 47.4339
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 194	worst: 13	mean: 85.58	deviation: 55.79215
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 186	worst: 15	mean: 88.1	deviation: 47.35325
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 190	worst: -11	mean: 73.28	deviation: 55.20907
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 189	worst: -2	mean: 98	deviation: 51.05997
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 197	worst: -13	mean: 73.52	deviation: 48.99643
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 184	worst: 3	mean: 81.8	deviation: 54.15718
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 22	best: 202	worst: 15	mean: 94.92	deviation: 53.09759
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 188	worst: 2	mean: 96.28	deviation: 47.93539
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 179	worst: -11	mean: 76.04	deviation: 54.74741
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 176	worst: 1	mean: 70.98	deviation: 51.32777
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 186	worst: -6	mean: 85.66	deviation: 51.43058
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 191	worst: 8	mean: 74.74	deviation: 45.93596
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 190	worst: -1	mean: 80.62	deviation: 55.12818
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 189	worst: -2	mean: 84.28	deviation: 50.76378
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 197	worst: 0	mean: 75	deviation: 50.51376
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 194	worst: -3	mean: 81.82	deviation: 54.69687
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 23	best: 203	worst: 4	mean: 96.06	deviation: 52.09008
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 179	worst: -7	mean: 79.38	deviation: 57.56593
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 188	worst: 8	mean: 84.28	deviation: 51.51001
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 176	worst: 8	mean: 71.86	deviation: 47.63739
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 191	worst: 11	mean: 80.36	deviation: 50.05987
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 186	worst: 1	mean: 87.62	deviation: 46.44131
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 190	worst: -3	mean: 71.08	deviation: 51.58637
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 186	worst: -8	mean: 75.5	deviation: 52.66773
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 197	worst: -15	mean: 72.66	deviation: 51.39946
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 184	worst: -1	mean: 94.62	deviation: 47.89317
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 24	best: 203	worst: -7	mean: 84.62	deviation: 51.60112
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 179	worst: 1	mean: 80.02	deviation: 52.51951
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 188	worst: 7	mean: 83.44	deviation: 48.47604
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 176	worst: -1	mean: 85.72	deviation: 45.77381
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 191	worst: 17	mean: 80.76	deviation: 46.65042
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 186	worst: -6	mean: 91.46	deviation: 53.4072
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 190	worst: -2	mean: 74.56	deviation: 54.91272
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 186	worst: 8	mean: 92.96	deviation: 49.6419
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 197	worst: 5	mean: 70.86	deviation: 47.97958
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 184	worst: 19	mean: 92.1	deviation: 50.24987
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 25	best: 203	worst: 8	mean: 89.02	deviation: 53.9268
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 179	worst: -10	mean: 69.6	deviation: 50.75076
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 186	worst: 2	mean: 87.12	deviation: 50.47321
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 176	worst: 11	mean: 76.32	deviation: 44.73631
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 191	worst: 8	mean: 79.7	deviation: 49.64766
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 186	worst: 6	mean: 82.04	deviation: 55.09409
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 190	worst: -2	mean: 70.5	deviation: 55.50396
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 189	worst: 17	mean: 100.48	deviation: 45.98098
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 196	worst: 5	mean: 78.04	deviation: 49.25443
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 179	worst: -10	mean: 74.26	deviation: 47.8041
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 187	worst: -10	mean: 90.98	deviation: 57.85758
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 26	best: 203	worst: 4	mean: 99.76	deviation: 50.58639
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 188	worst: 7	mean: 83.94	deviation: 49.35034
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 176	worst: -12	mean: 75.1	deviation: 46.44965
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 191	worst: 21	mean: 83.36	deviation: 45.05586
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 186	worst: -5	mean: 85.98	deviation: 52.84486
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 190	worst: -2	mean: 77.04	deviation: 51.00822
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 189	worst: 5	mean: 82.06	deviation: 52.6564
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 197	worst: 6	mean: 79.32	deviation: 52.87738
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 179	worst: -10	mean: 73.76	deviation: 52.69442
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 184	worst: -1	mean: 81.16	deviation: 57.73746
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 176	worst: 8	mean: 70.32	deviation: 43.97383
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 191	worst: 3	mean: 73.62	deviation: 51.70372
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 186	worst: -3	mean: 76.1	deviation: 53.15909
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 27	best: 203	worst: 2	mean: 90.16	deviation: 53.37653
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 188	worst: -7	mean: 93.06	deviation: 53.1204
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 190	worst: -9	mean: 71.94	deviation: 50.99389
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 197	worst: 10	mean: 79.46	deviation: 48.53008
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 189	worst: 2	mean: 79.02	deviation: 54.93941
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 178	worst: -11	mean: 75.64	deviation: 59.5294
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 194	worst: -11	mean: 88.66	deviation: 54.4322
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 191	worst: 11	mean: 68.84	deviation: 49.17982
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 176	worst: 9	mean: 77.6	deviation: 49.50919
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 186	worst: 6	mean: 77.18	deviation: 53.79617
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 188	worst: 16	mean: 83.32	deviation: 47.7688
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 28	best: 203	worst: 2	mean: 94.88	deviation: 53.14307
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 190	worst: -6	mean: 75.72	deviation: 51.72506
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 197	worst: 11	mean: 69.64	deviation: 48.5299
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 189	worst: 8	mean: 78.06	deviation: 50.98722
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 179	worst: -11	mean: 65.94	deviation: 58.09248
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 194	worst: -12	mean: 90.98	deviation: 56.88778
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 176	worst: -8	mean: 79	deviation: 51.08581
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 191	worst: 7	mean: 86.72	deviation: 47.39538
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 195	worst: -16	mean: 92.64	deviation: 56.01063
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 190	worst: -1	mean: 80.16	deviation: 52.28399
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 188	worst: 7	mean: 82.82	deviation: 48.18908
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 29	best: 203	worst: 1	mean: 93.68	deviation: 56.6316
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 189	worst: -10	mean: 79.9	deviation: 50.77331
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 197	worst: 10	mean: 82.08	deviation: 49.56323
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 180	worst: 17	mean: 98.58	deviation: 46.77183
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 194	worst: -2	mean: 88.66	deviation: 56.95844
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 176	worst: -3	mean: 66.94	deviation: 47.17051
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 191	worst: -2	mean: 81.32	deviation: 55.7643
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 178	worst: -3	mean: 86.88	deviation: 49.14657
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 30	best: 203	worst: -2	mean: 84.98	deviation: 56.88461
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 188	worst: -2	mean: 81.26	deviation: 51.19055
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 195	worst: -13	mean: 94.38	deviation: 51.27802
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 189	worst: 1	mean: 85.6	deviation: 49.16827
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 197	worst: -2	mean: 77.88	deviation: 51.05121
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 194	worst: -1	mean: 84.44	deviation: 57.30346
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 187	worst: 12	mean: 99.12	deviation: 51.6928
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 176	worst: -8	mean: 69.5	deviation: 50.69329
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 202	worst: -2	mean: 76.12	deviation: 52.65231
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 191	worst: -3	mean: 86.88	deviation: 49.47429
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 188	worst: -1	mean: 98.94	deviation: 47.96724
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 195	worst: -3	mean: 87.06	deviation: 52.59064
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 31	best: 203	worst: -5	mean: 99.4	deviation: 54.97162
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 186	worst: -10	mean: 73.7	deviation: 54.58214
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 197	worst: 10	mean: 81.88	deviation: 49.14046
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 194	worst: -2	mean: 80.18	deviation: 61.37612
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 187	worst: 12	mean: 100.44	deviation: 53.0521
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 176	worst: -2	mean: 83.12	deviation: 51.29548
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 202	worst: 0	mean: 69.82	deviation: 53.30993
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 191	worst: 19	mean: 84.6	deviation: 48.02541
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 188	worst: 1	mean: 91.92	deviation: 54.23647
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 195	worst: -2	mean: 74.36	deviation: 53.45419
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 32	best: 203	worst: -5	mean: 92.22	deviation: 51.41101
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 197	worst: -3	mean: 66.82	deviation: 49.05698
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 186	worst: -4	mean: 85.2	deviation: 57.78443
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 196	worst: -1	mean: 82.98	deviation: 65.16763
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 187	worst: 1	mean: 91.52	deviation: 53.54484
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 202	worst: -10	mean: 75.38	deviation: 52.6011
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 177	worst: -1	mean: 66.8	deviation: 49.8012
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 191	worst: 5	mean: 81.1	deviation: 46.54042
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 195	worst: -2	mean: 80.36	deviation: 52.11593
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 194	worst: 9	mean: 96.4	deviation: 52.72229
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 33	best: 203	worst: 4	mean: 106.5	deviation: 52.0347
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 197	worst: -1	mean: 72.86	deviation: 50.32574
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 191	worst: 17	mean: 97.3	deviation: 50.64396
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 196	worst: 18	mean: 80.78	deviation: 54.95026
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 187	worst: 9	mean: 95.12	deviation: 49.77816
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 202	worst: -1	mean: 81.6	deviation: 48.42064
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 177	worst: -2	mean: 83.56	deviation: 50.77368
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 191	worst: 17	mean: 87.28	deviation: 50.45911
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 195	worst: -5	mean: 82.52	deviation: 55.05969
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 34	best: 203	worst: -12	mean: 87.96	deviation: 51.09323
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 188	worst: 1	mean: 82.46	deviation: 54.48127
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 196	worst: 13	mean: 83.36	deviation: 46.86395
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 191	worst: -9	mean: 85.52	deviation: 53.2681
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 196	worst: 9	mean: 85.5	deviation: 50.25545
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 187	worst: 1	mean: 89.54	deviation: 51.15435
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 202	worst: -8	mean: 74.96	deviation: 56.8028
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 181	worst: -11	mean: 78	deviation: 51.37237
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 191	worst: 13	mean: 78.44	deviation: 48.58813
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 195	worst: 8	mean: 76.66	deviation: 51.75775
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 35	best: 203	worst: 6	mean: 88.96	deviation: 53.40186
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 188	worst: 7	mean: 83.88	deviation: 52.88767
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 197	worst: 8	mean: 75.34	deviation: 49.42331
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 191	worst: -1	mean: 81.38	deviation: 50.44239
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 196	worst: 7	mean: 76.42	deviation: 60.58717
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 181	worst: -2	mean: 75.44	deviation: 52.68137
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 187	worst: -7	mean: 91.02	deviation: 55.55087
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 202	worst: 3	mean: 79.5	deviation: 52.39742
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 191	worst: 0	mean: 76.58	deviation: 51.03101
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 195	worst: -1	mean: 79.08	deviation: 52.29755
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 200	worst: -3	mean: 76.02	deviation: 52.55645
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 191	worst: 4	mean: 78.74	deviation: 53.68494
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 36	best: 203	worst: 8	mean: 91.86	deviation: 51.58139
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 188	worst: -3	mean: 82.66	deviation: 51.67344
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 196	worst: -2	mean: 79.98	deviation: 57.04402
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 181	worst: -2	mean: 58.62	deviation: 53.03655
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 187	worst: 8	mean: 89.16	deviation: 46.70219
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 202	worst: 10	mean: 93.92	deviation: 50.01953
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 195	worst: -1	mean: 86.86	deviation: 55.28074
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 191	worst: -6	mean: 90.24	deviation: 53.13852
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 191	worst: -10	mean: 72.22	deviation: 54.50956
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 200	worst: -1	mean: 79.98	deviation: 54.08789
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 188	worst: -6	mean: 83.58	deviation: 52.04847
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 37	best: 203	worst: -2	mean: 93.42	deviation: 59.24832
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 196	worst: 10	mean: 83.04	deviation: 54.71598
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 181	worst: -12	mean: 65.58	deviation: 54.71676
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 202	worst: -11	mean: 61.66	deviation: 52.58616
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 187	worst: 34	mean: 92.04	deviation: 38.80049
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 191	worst: -4	mean: 79.82	deviation: 49.12665
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 195	worst: 9	mean: 77.98	deviation: 49.38886
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 191	worst: -1	mean: 85.3	deviation: 55.13339
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 188	worst: 5	mean: 89.1	deviation: 51.40943
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 200	worst: 8	mean: 83.12	deviation: 52.0114
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 38	best: 203	worst: -3	mean: 99.6	deviation: 58.2807
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 196	worst: -3	mean: 81.9	deviation: 52.49999
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 181	worst: -9	mean: 69.68	deviation: 50.33784
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 187	worst: -1	mean: 89.86	deviation: 51.81892
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 202	worst: 1	mean: 79.78	deviation: 50.2682
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 191	worst: 6	mean: 86.6	deviation: 50.34361
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 195	worst: 6	mean: 88.92	deviation: 52.57978
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 191	worst: 8	mean: 81.18	deviation: 52.77866
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 188	worst: 5	mean: 82.08	deviation: 51.47149
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 200	worst: 5	mean: 89.34	deviation: 51.07978
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 39	best: 203	worst: 7	mean: 96.62	deviation: 54.79594
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 181	worst: 0	mean: 69.5	deviation: 54.75007
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 196	worst: 6	mean: 74.4	deviation: 54.05885
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 202	worst: -2	mean: 68.8	deviation: 51.28508
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 187	worst: 5	mean: 105.7	deviation: 50.32981
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 191	worst: 0	mean: 76.58	deviation: 50.92508
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 195	worst: 9	mean: 85.7	deviation: 49.26104
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 191	worst: -11	mean: 84.04	deviation: 52.96601
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 188	worst: 1	mean: 75.92	deviation: 50.46616
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 200	worst: -3	mean: 69.44	deviation: 51.08822
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 40	best: 203	worst: -7	mean: 82.04	deviation: 55.767
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 181	worst: -11	mean: 68.76	deviation: 56.57475
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 196	worst: -13	mean: 70.26	deviation: 57.2569
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 202	worst: -7	mean: 73.24	deviation: 51.70902
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 187	worst: 8	mean: 93.7	deviation: 51.10431
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 191	worst: 8	mean: 81.82	deviation: 50.87305
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 195	worst: 1	mean: 74.38	deviation: 53.15408
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 191	worst: -1	mean: 85.38	deviation: 52.58436
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 188	worst: -5	mean: 96.44	deviation: 49.63473
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 200	worst: -7	mean: 76.62	deviation: 51.22886
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 181	worst: -1	mean: 70.06	deviation: 50.09807
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 196	worst: -4	mean: 72.08	deviation: 55.19052
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 202	worst: -1	mean: 75.62	deviation: 52.7177
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 41	best: 203	worst: -7	mean: 101.3	deviation: 61.78778
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 192	worst: -12	mean: 94.86	deviation: 53.07014
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 191	worst: 12	mean: 79.56	deviation: 48.68066
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 195	worst: 2	mean: 79.52	deviation: 54.272
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 191	worst: 1	mean: 81.1	deviation: 50.21443
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 188	worst: -2	mean: 93.88	deviation: 51.58552
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 199	worst: 0	mean: 76.96	deviation: 48.20413
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 196	worst: -2	mean: 72.56	deviation: 58.11442
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 176	worst: -4	mean: 58.88	deviation: 51.21626
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 202	worst: -8	mean: 70.6	deviation: 52.14172
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 42	best: 203	worst: -4	mean: 91.94	deviation: 52.90195
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 192	worst: 13	mean: 83.16	deviation: 53.03447
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 190	worst: 8	mean: 79.4	deviation: 45.9826
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 191	worst: -2	mean: 73.46	deviation: 52.8667
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 195	worst: 2	mean: 81.92	deviation: 55.40284
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 188	worst: -2	mean: 86.62	deviation: 47.11131
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 200	worst: 10	mean: 79.82	deviation: 49.92181
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 184	worst: -2	mean: 68.32	deviation: 52.27138
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 196	worst: -2	mean: 78.48	deviation: 52.22192
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 202	worst: 1	mean: 80.9	deviation: 52.41116
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 43	best: 203	worst: 8	mean: 94.1	deviation: 53.21964
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 191	worst: 6	mean: 84.02	deviation: 52.15917
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 192	worst: 2	mean: 77.12	deviation: 53.51697
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 191	worst: -7	mean: 84.36	deviation: 51.82885
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 195	worst: 7	mean: 91.1	deviation: 54.50367
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 200	worst: -4	mean: 73.54	deviation: 51.32103
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 188	worst: 17	mean: 95.84	deviation: 50.97386
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 184	worst: -2	mean: 73.8	deviation: 47.83806
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 196	worst: 10	mean: 87.76	deviation: 54.27728
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 202	worst: 8	mean: 84.16	deviation: 49.21762
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 44	best: 203	worst: 6	mean: 98.06	deviation: 48.91601
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 192	worst: 9	mean: 83.44	deviation: 49.38588
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 190	worst: 9	mean: 87.86	deviation: 46.66948
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 191	worst: 0	mean: 84	deviation: 48.33012
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 195	worst: 1	mean: 81.22	deviation: 52.60923
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 200	worst: 6	mean: 83.64	deviation: 51.51068
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 184	worst: -1	mean: 68.76	deviation: 46.38903
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 188	worst: -2	mean: 81.06	deviation: 48.10049
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 196	worst: -5	mean: 77.96	deviation: 58.42122
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 202	worst: -10	mean: 65.58	deviation: 55.32453
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 45	best: 203	worst: 4	mean: 82.54	deviation: 52.90149
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 192	worst: 3	mean: 75.72	deviation: 51.32136
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 190	worst: 11	mean: 82.84	deviation: 51.96397
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 193	worst: -6	mean: 92.56	deviation: 55.54752
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 195	worst: 4	mean: 78.16	deviation: 54.23001
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 199	worst: 7	mean: 80.1	deviation: 50.59575
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 196	worst: -2	mean: 78.6	deviation: 53.87095
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 184	worst: -8	mean: 73.08	deviation: 54.66327
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 188	worst: 9	mean: 87.32	deviation: 48.6557
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 202	worst: 10	mean: 88.86	deviation: 48.1319
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 46	best: 203	worst: 16	mean: 97.68	deviation: 53.20994
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 190	worst: -3	mean: 80.24	deviation: 51.83457
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 192	worst: 0	mean: 82.18	deviation: 56.22479
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 193	worst: -1	mean: 80.58	deviation: 52.70145
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 195	worst: -1	mean: 81.36	deviation: 56.01884
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 200	worst: 3	mean: 67.76	deviation: 51.24121
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 196	worst: -8	mean: 82.28	deviation: 59.51842
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 184	worst: -1	mean: 74.24	deviation: 48.04979
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 188	worst: 15	mean: 92.18	deviation: 50.09299
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 202	worst: -9	mean: 82.24	deviation: 51.06841
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 192	worst: 0	mean: 72.18	deviation: 50.6619
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 47	best: 203	worst: -4	mean: 94.14	deviation: 56.81691
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 190	worst: 0	mean: 85.12	deviation: 50.54647
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 193	worst: -12	mean: 85.64	deviation: 52.90699
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 195	worst: 3	mean: 77.78	deviation: 54.71719
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [0,0,1,-1,-1,0,-1,1,-1,1,1,0,1,1,-1,1,-1,-1,1,1,0,0,-1,-1,0,0,-1,1,0,0,-1,1,1,1,0,0,0,1,-1,-1,0,-1,0,-1,0,1,0,0,0,1,1,0,-1,-1,1,0,0,0,0,0,-1,-1,1,-1,1] Chromosome2: [False,True,True,True,True,True,False,False,True,True,True,False,False,True,True,False,False,False,True,True,False,True,True,True,False,False,True,True,True,True,True,True,False,True,True,True,False,False,True,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,True,True,False,True,True,True,True,False,True,True,False]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 200	worst: 3	mean: 81.96	deviation: 51.82276
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 196	worst: -3	mean: 81.84	deviation: 59.26022
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [0,-1,-1,1,0,1,0,-1,-1,1,1,1,-1,1,0,0,0,-1,1,0,-1,1,0,0,0,-1,1,0,-1,1,1,0,0,1,0,1,-1,-1,-1,0,-1,1,-1,0,-1,1,0,1,-1,1,0,1,-1,1,0,0,1,0,0,-1,1,0,0,-1,1] Chromosome2: [True,True,True,False,True,False,True,True,True,False,True,False,False,True,True,False,False,False,True,False,True,False,True,True,False,True,False,False,False,True,True,True,False,True,False,True,False,True,True,False,False,True,False,False,True,True,False,False,True,True,True,False,False,False,True,True,False,False,True,True,False,False,False,False,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 184	worst: -13	mean: 79.78	deviation: 52.32028
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [-1,0,0,-1,1,0,0,1,1,-1,-1,0,1,-1,-1,1,0,1,1,1,0,1,-1,1,0,0,-1,-1,-1,0,1,0,-1,-1,0,-1,1,1,0,0,1,0,-1,0,0,-1,0,-1,0,0,1,1,0,-1,0,-1,0,0,1,1,0,-1,-1,-1,1] Chromosome2: [False,False,False,True,False,False,True,True,True,True,False,False,True,False,True,True,True,False,True,True,False,False,True,True,True,False,False,False,False,False,True,False,False,True,False,True,True,True,True,False,False,False,True,True,False,True,False,False,True,True,False,False,False,True,True,False,True,False,False,True,False,True,True,False,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 202	worst: -3	mean: 72.2	deviation: 53.92439
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 188	worst: -7	mean: 81.5	deviation: 53.93153
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 48	best: 203	worst: -3	mean: 90.98	deviation: 56.55564
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [-1,0,-1,0,1,-1,1,0,-1,1,0,1,1,1,0,-1,0,1,0,0,-1,-1,1,1,0,1,1,1,-1,0,0,-1,-1,-1,-1,1,0,0,-1,1,1,-1,0,0,1,1,0,0,0,0,0,0,-1,1,0,0,1,1,-1,-1,0,-1,1,-1,1] Chromosome2: [False,False,True,True,False,False,False,False,True,True,True,True,True,True,False,False,False,False,True,False,False,True,True,False,False,False,True,False,True,True,False,True,True,True,False,True,True,False,True,False,True,False,True,False,False,True,True,False,True,False,False,False,False,True,True,True,True,False,False,False,True,True,True,False,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 192	worst: 10	mean: 84.48	deviation: 47.73101
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [0,-1,-1,1,0,0,1,0,-1,-1,0,1,0,1,1,1,-1,1,0,0,0,0,-1,-1,1,0,-1,-1,1,0,-1,0,1,-1,0,0,1,0,0,0,0,1,0,-1,1,-1,0,-1,1,1,-1,-1,-1,0,0,0,-1,-1,-1,0,0,-1,-1,0,0] Chromosome2: [False,False,True,False,False,True,True,True,False,False,True,True,False,True,True,True,True,False,False,True,True,False,True,False,True,True,True,False,False,True,True,True,True,False,False,True,True,False,True,False,False,True,True,True,False,True,True,True,False,False,False,False,True,True,True,False,False,True,False,False,True,False,True,True,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 191	worst: -2	mean: 80.48	deviation: 54.11811
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [-1,1,-1,1,-1,0,-1,1,-1,-1,-1,-1,1,1,-1,1,1,0,1,0,1,0,-1,1,-1,0,1,-1,0,-1,1,-1,-1,0,0,1,0,-1,1,1,1,0,-1,0,0,0,1,1,0,-1,-1,-1,1,-1,0,-1,-1,1,-1,0,1,1,1,0,1] Chromosome2: [False,False,True,True,True,True,False,True,True,False,True,True,False,False,False,False,True,False,True,True,True,True,True,False,False,False,True,False,True,False,True,False,True,True,True,False,False,True,True,False,True,False,False,False,False,True,False,True,True,False,False,True,False,False,True,False,False,True,False,False,True,False,False,True,False]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 193	worst: -17	mean: 70.7	deviation: 59.09696
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [1,0,0,-1,-1,1,-1,-1,1,0,-1,1,1,-1,1,0,1,0,-1,1,1,1,-1,1,0,0,-1,-1,0,-1,0,1,-1,0,-1,-1,1,0,-1,1,0,0,1,-1,0,1,1,-1,-1,-1,1,1,0,0,1,0,0,-1,-1,1,1,1,1,1,1] Chromosome2: [True,True,True,True,False,True,True,True,False,True,False,False,False,True,True,False,True,False,True,True,True,False,True,True,False,True,True,False,False,True,True,False,True,True,False,True,False,False,False,True,False,True,False,False,True,True,True,True,True,True,True,False,False,True,True,True,False,True,False,True,False,True,False,False,False]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 195	worst: 7	mean: 78.92	deviation: 52.64897
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [-1,0,-1,1,0,1,0,-1,1,-1,-1,-1,0,0,0,1,1,1,0,-1,1,1,0,0,1,0,1,0,-1,-1,1,-1,-1,-1,-1,-1,1,0,1,1,1,0,1,1,1,1,0,-1,-1,-1,-1,1,-1,1,0,-1,1,1,-1,0,1,-1,1,-1,-1] Chromosome2: [True,True,True,True,False,True,True,True,False,True,True,True,False,True,True,False,False,False,True,False,False,False,True,False,False,True,False,True,False,True,False,True,True,True,True,True,False,False,True,True,True,False,True,True,True,False,False,False,True,False,True,False,True,True,True,True,True,True,False,True,False,False,True,True,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 196	worst: 5	mean: 83.14	deviation: 52.57491
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [0,0,0,-1,-1,0,1,-1,1,0,1,1,0,1,-1,-1,1,0,1,1,0,0,0,-1,-1,0,0,0,-1,-1,1,0,-1,0,1,-1,0,0,0,0,-1,1,1,0,-1,1,-1,-1,0,1,1,-1,-1,0,1,0,0,-1,1,0,-1,1,0,-1,1] Chromosome2: [False,True,True,True,False,False,False,True,True,False,True,True,True,True,False,True,True,False,True,True,True,True,False,True,True,False,True,True,False,True,False,True,False,False,False,True,True,False,True,True,True,True,True,False,True,True,False,True,False,True,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 186	worst: -4	mean: 82.46	deviation: 53.01102
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 49	best: 203	worst: 4	mean: 106.38	deviation: 51.26983
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Best individual: [ExampleIndividual] Chromosome1: [1,0,-1,0,-1,-1,1,1,-1,0,0,0,-1,1,1,1,0,1,1,0,-1,1,0,-1,-1,0,0,-1,0,0,0,1,-1,-1,-1,1,-1,0,-1,1,1,1,1,1,1,1,-1,-1,-1,0,-1,0,-1,-1,1,1,-1,-1,0,0,0,0,1,-1,1] Chromosome2: [True,True,True,False,False,True,True,True,True,True,False,True,True,True,True,True,False,True,True,False,True,True,True,True,False,True,True,False,False,True,True,False,False,True,True,False,True,True,False,True,True,True,True,True,False,True,False,True,True,True,False,True,False,True,False,False,True,True,True,False,True,False,True,False,True]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+generation: 50	best: 203	worst: 10	mean: 95.86	deviation: 55.53522
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

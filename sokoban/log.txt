@@ -1,0 +1,14 @@
+[6/6/2017 5:00:24 PM][SearchAgent.Start]: waiting on key !
+[6/6/2017 5:00:26 PM][SearchAgent.Update]: Visited: 19
+[6/6/2017 5:00:26 PM][SearchAgent.Update]: Expanded: 50
+[6/6/2017 5:00:26 PM][SearchAgent.Update]: Building solution path
+[6/6/2017 5:00:26 PM][SearchAgent.Update]: Saving path!
+[6/6/2017 5:00:26 PM][SearchAgent.Update]: done.. !
+[6/6/2017 5:00:26 PM][SearchAgent.Update]: [North,North,North,North,West]
+[6/6/2017 5:00:32 PM][SearchAgent.Start]: waiting on key !
+[6/6/2017 5:00:33 PM][SearchAgent.Update]: Visited: 19
+[6/6/2017 5:00:33 PM][SearchAgent.Update]: Expanded: 50
+[6/6/2017 5:00:33 PM][SearchAgent.Update]: Building solution path
+[6/6/2017 5:00:33 PM][SearchAgent.Update]: Saving path!
+[6/6/2017 5:00:33 PM][SearchAgent.Update]: done.. !
+[6/6/2017 5:00:33 PM][SearchAgent.Update]: [North,North,North,North,West]

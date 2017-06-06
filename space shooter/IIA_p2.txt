@@ -1,0 +1,78 @@
+individual size
+"	   multiplier
+new generations
+pop size
+mutation prob
+crossover prob
+
+
+
+
+
+/***************************/
+CLASSES 
+level
+0 nivel de debug
+hazard naves, e asteroides
+array 1 tipo de inimigos (3 - nave)
+array 2 posiçao x onde nasce o inimigo
+tempo -pos - tempo- pos(que se desloca na horizontal) - tempo
+time betweenhard, tempo entre hazards
+
+
+desloca-se constante na vertical
+
+criar novas instancias
+
+/**********************/
+GAME CONTROLLER
+pontuaçao, scores
+tiros tiram pontos
+ficar vivo sem alterações nao é tido em conta
+
+/**********************/
+evolutionstate
+step()!!!!!!!!!!!!!!
+avaliar indivious evolvingspaceshooter ->update
+selecionar os pais da proxima (aleatoria ATM)
+	alterar instancia selection, implementar torneira 
+crossover nao alterar
+selecionar a proxima populaçao
+/**********************/
+individuo - fenotipo monkaS parametros da classe
+moves[] array de forças aplicada em cada frame
+calculo do individuo esta feito no nivel
+
+exampleindividual
+está interio para diminuir o espaço de procura chromossoma1
+nao estao a ser considerados movimentos verticais
+chromossoma2 - tiros
+multiplier fator de escala, implica diminuir o  espaço de procura
+
+translate - genotipo em fenotipo´
+clone copia para um novo individuo
+
+
+falta implementar o mutate e crossover
+falta novo metodo de sleçao, ou seja, escolher o melhor individuo e aplicar mutaçoes sobre ele
+
+
+helitismo ?? 
+torneira, motação, crossover
+2nd meta, novos operadores
+
+para averiguar valores, manter o valor que pretendemos testar e fazer a média
+
+/**********************/
+evolutions state permite alterar o nivel
+
+/**********************/
+grava num ficheiro da classe loger
+int geraçao e valor
+desvio padrao de cada geraçao para o logger
+
+
+
+
+random.initstate(seed)
+para os testes do mesmo valor, variar a seed, porem quando se muda os parametros, usa-se as seeds pela mesma ordem
